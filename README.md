@@ -1,4 +1,4 @@
-## 🇺🇸 Английский (English - USA)
+## 🇺🇸 English
 Privacy Policy
 Last updated: [Date]
 Data Collection: Our app is built with a focus on your privacy. We do not collect, store, or transmit your personal data or financial information to third-party servers.
@@ -8,7 +8,7 @@ Receipt Recognition (OCR): The receipt scanning feature works completely offline
 Feedback: If you choose to send an email to our support team (myoka.help@gmail.com), we will only receive the information you voluntarily include in the email (e.g., your email address and message text). This data will be used solely to resolve your issue.
 Policy Changes: When new features are added (such as cloud synchronization in future versions), this policy will be updated, and we will request your consent if required by regulations.
 
-## 🇩🇪 Немецкий (German)
+## 🇩🇪 Deutschland
 Datenschutzerklärung
 Letzte Aktualisierung: [Datum]
 Datenerfassung: Unsere App wurde mit Fokus auf Ihre Privatsphäre entwickelt. Wir erfassen, speichern oder übertragen Ihre persönlichen Daten oder Finanzinformationen nicht an Server von Drittanbietern.
@@ -18,7 +18,7 @@ Belegerkennung (OCR): Die Beleg-Scanfunktion arbeitet vollständig offline (auf 
 Feedback: Wenn Sie sich entscheiden, eine E-Mail an unseren Support (myoka.help@gmail.com) zu senden, erhalten wir nur die Informationen, die Sie freiwillig in die E-Mail aufnehmen (z. B. Ihre E-Mail-Adresse und den Nachrichtentext). Diese Daten werden ausschließlich zur Lösung Ihres Problems verwendet.
 Richtlinienänderungen: Wenn neue Funktionen hinzugefügt werden (z. B. Cloud-Synchronisierung in zukünftigen Versionen), wird diese Richtlinie aktualisiert, und wir werden Ihre Zustimmung einholen, falls die Vorschriften dies erfordern.
 
-## 🇫🇷 Французский (French)
+## 🇫🇷 France
 Politique de confidentialité
 Dernière mise à jour : [Date]
 Collecte de données : Notre application est conçue en mettant l'accent sur votre vie privée. Nous ne collectons, ne stockons ni ne transmettons vos données personnelles ou informations financières à des serveurs tiers.
@@ -28,7 +28,7 @@ Reconnaissance des reçus (OCR) : La fonction de numérisation des reçus foncti
 Retours d'information : Si vous choisissez d'envoyer un e-mail à notre équipe d'assistance (myoka.help@gmail.com), nous ne recevrons que les informations que vous incluez volontairement dans l'e-mail (par exemple, votre adresse e-mail et le texte du message). Ces données seront utilisées uniquement pour résoudre votre problème.
 Modifications de la politique : Lors de l'ajout de nouvelles fonctionnalités (telles que la synchronisation cloud dans les futures versions), cette politique sera mise à jour et nous demanderons votre consentement si la réglementation l'exige.
 
-## 🇵🇱 Польский (Polish)
+## 🇵🇱 Polska
 Polityka prywatności
 Ostatnia aktualizacja: [Data]
 Gromadzenie danych: Nasza aplikacja została stworzona z myślą o Twojej prywatności. Nie gromadzimy, nie przechowujemy ani nie przesyłamy Twoich danych osobowych ani informacji finansowych na serwery stron trzecich.
@@ -38,7 +38,7 @@ Rozpoznawanie paragonów (OCR): Funkcja skanowania paragonów działa całkowici
 Informacje zwrotne: Jeśli zdecydujesz się wysłać e-mail do naszego zespołu wsparcia (myoka.help@gmail.com), otrzymamy tylko te informacje, które dobrowolnie dołączysz do wiadomości (np. Twój adres e-mail i treść wiadomości). Dane te będą wykorzystywane wyłącznie w celu rozwiązania Twojego problemu.
 Zmiany w polityce: W przypadku dodania nowych funkcji (np. synchronizacji w chmurze w przyszłych wersjach) niniejsza polityka zostanie zaktualizowana, a my poprosimy o Twoją zgodę, jeśli będą tego wymagać przepisy.
 
-## 🇷🇺 Русский (Russian)
+## 🇷🇺 Русский
 Политика конфиденциальности
 Последнее обновление: [Дата]
 Сбор данных: Наше приложение создано с фокусом на вашу приватность. Мы не собираем, не храним и не передаем ваши личные данные или финансовую информацию на сторонние серверы.
@@ -48,7 +48,7 @@ Zmiany w polityce: W przypadku dodania nowych funkcji (np. synchronizacji w chmu
 Обратная связь: Если вы решите отправить нам письмо в службу поддержки (myoka.help@gmail.com), мы получим только ту информацию, которую вы добровольно включите в письмо (например, ваш email и текст сообщения). Эти данные будут использованы исключительно для решения вашей проблемы.
 Изменения в политике: При добавлении новых функций (например, облачной синхронизации в будущих версиях) данная политика будет обновлена, и мы запросим ваше согласие, если этого потребуют правила.
 
-## 🇺🇦 Украинский (Ukrainian)
+## 🇺🇦 Україна
 Політика конфіденційності
 Останнє оновлення: [Дата]
 Збір даних: Наш застосунок створено з фокусом на вашу приватність. Ми не збираємо, не зберігаємо та не передаємо ваші особисті дані або фінансову інформацію на сторонні сервери.
@@ -58,7 +58,7 @@ Zmiany w polityce: W przypadku dodania nowych funkcji (np. synchronizacji w chmu
 Зворотний зв'язок: Якщо ви вирішите відправити нам лист у службу підтримки (myoka.help@gmail.com), ми отримаємо лише ту інформацію, яку ви добровільно включите в лист (наприклад, ваш email та текст повідомлення). Ці дані будуть використані виключно для вирішення вашої проблеми.
 Зміни в політиці: При додаванні нових функцій (наприклад, хмарної синхронізації в майбутніх версіях) цю політику буде оновлено, і ми запитаємо вашу згоду, якщо цього вимагатимуть правила.
 
-## 🇯🇵 Японский (Japanese)
+## 🇯🇵 日本
 プライバシーポリシー
 最終更新日：[日付]
 データ収集： 当社のアプリは、お客様のプライバシーを重視して構築されています。お客様の個人データや財務情報を収集、保存、またはサードパーティのサーバーに送信することはありません。
